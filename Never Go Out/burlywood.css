@@ -1,0 +1,30 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Anton');
+a{color:blue;}
+.copyright{font-size:x-small;}
+ul{text-align:center;   
+   list-style-position: inside;
+   list-style-type:none;
+   font-family:'Courier New';
+   font-style:italic;
+}
+li::first-letter{font-size:150%;text-transform:uppercase;font-weight:bold;}
+
+h1{font-family:'Anton', sans-serif; font-weight:bold; text-align:center; font-style:italic; border-bottom-style:dotted; margin:0px;
+      padding:0px;}
+
+.about {text-align:left;margin:10px;}
+
+main#wrap{margin:0px;
+      padding:0px;
+      border-style:dotted;
+      width:50%;
+        position:relative;
+        margin-left:auto;
+        margin-right:auto;
+        background-color:beige;}
+
+body {background-color:burlywood;
+      font-family:'Roboto', sans-serif;
+      text-align:center;    
+      }

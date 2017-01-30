@@ -4,7 +4,7 @@ ul{text-align:center;
    list-style-position: inside;
    list-style-type:none;
 }
-li::first-letter{font-size:200%;text-transform:uppercase;}
+li::first-letter{font-size:180%;text-transform:uppercase;}
 h1{font-weight:bold; font-family:'Times New Roman'}
 .copyright {}
 body {background-color:deepskyblue;
