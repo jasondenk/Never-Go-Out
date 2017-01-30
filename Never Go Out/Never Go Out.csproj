@@ -113,6 +113,7 @@
     <Content Include="sonnet18, challenge3.html" />
     <Content Include="sonnet18-challenge2.html" />
     <Content Include="sonnet18.html" />
+    <Content Include="twocolumn.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
