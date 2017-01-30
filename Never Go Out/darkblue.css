@@ -1,0 +1,10 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+a{color:darkmagenta;}
+ul{text-align:center;   
+   list-style-position: inside;
+}
+h1{font-weight:bold;}
+.copyright{font-size:12px;font-style:italic;}
+body {background-color:cornflowerblue;
+      font-family:'Source Sans Pro', sans-serif;
+}
