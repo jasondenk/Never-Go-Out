@@ -1,16 +1,15 @@
-﻿
-body {font-family:'Courier New';
-      background-color:midnightblue;padding:0;
-      
-}
-main{padding:0;
-     width:80%;
+﻿body {font-family:'Courier New';
+      background-color:midnightblue;padding:0;width:80%;
      text-align:center;
         position:center;        
         margin-left:auto;
-        margin-right:auto;
+        margin-right:auto
+      
 }
-nav{float:left;margin-left:100px;
+main{padding:0;
+     ;
+}
+nav{float:left;
     margin-right:0;
     font-family:'Courier New';
     background-color:Highlight;
@@ -18,7 +17,7 @@ nav{float:left;margin-left:100px;
     
 }
 
-article{width:70%;
+article{
         text-align:center;
         position:center;
         padding:0;
